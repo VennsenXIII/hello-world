@@ -1,9 +1,4 @@
 # hello-world
 lets learn about this new world 
-Se provo a modificare il file, le seguenti modifiche finiscono all'interno della breve descrizione? 
-//
-//
-//
-//
-//
-//
+Hi im Michele alias VennsenXIII (my gamer name). I wanna learn all about this platform and i hope to grew up my coding skills also with the help
+of this fantastic comunity. 
